@@ -4,7 +4,7 @@ This is a repository to display my projects utilizing python with jupyter notebo
 
 Project Title  | Description   |  Topic
 -------------- | ------------- | ------------------
-[Toronto Bikeshare Net Flow Analysis]([https://github.com/Romero-Rb/Python-Jupyter-Projects/tree/main/Visa%20Stocks%20Multiple%20Linear%20Reg](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/main/Bike_Share_Analysis_Toronto_2026/Bike%20Share%20Analysis%20(3).ipynb)) | Analyzed and calculated the net flow of stations across toronto for its bike share program to observe possible station deficiencies | Aggregation, Grouping and Joins, pandas, Data Transformation, Column Manipulation, Trimmed Mean, Data Interpretation, Trend Analysis, Time-Series Analysis
+[Toronto Bikeshare Net Flow Analysis](https://github.com/Romero-Rb/Jupyter-Data-Analysis-Projects/blob/main/Bike_Share_Analysis_Toronto_2026/Bike%20Share%20Analysis%20(3).ipynb) | Analyzed and calculated the net flow of stations across toronto for its bike share program to observe possible station deficiencies | Aggregation, Grouping and Joins, pandas, Data Transformation, Column Manipulation, Trimmed Mean, Data Interpretation, Trend Analysis, Time-Series Analysis
 
 ## Data Visualization Examples
 Here are some examples of data visualization from the JAMB Score Analysis project and Visa Stocks Analysis Project
